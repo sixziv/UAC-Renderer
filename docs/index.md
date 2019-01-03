@@ -5,7 +5,7 @@
 
 ## 这是什么？
 * 一个用于替换[UAC](https://msdn.microsoft.com/en-us/library/bb756945.aspx)界面的开源工具
-![](https://github.com/sixziv/UAC-Renderer/raw/master/docs/Sample.png)
+# ![](https://github.com/sixziv/UAC-Renderer/raw/master/docs/Sample.png)
 * 通过二次开发：
     * 您可以定制自己的UAC界面
     * 您可以指定数字签名检验参数
@@ -47,6 +47,10 @@
 * 控制代码为MIT协议，因此您只需要遵守MIT协议即可。（请不要违背其中引用的其它项目的协议）
 * 如果您不希望遵守MIT协议，请跳转至 [github仓库](https://github.com/6ziv/Custom-Samples/tree/master/UAC) 。其中有该项目的原始代码。
     * 由于仓库性质为应用示例，其中的代码仅做展示用，不进行除bug修复外的更新
+
+## 怎样动态加载图片
+* 对于可能引起系统崩溃的程序，窃以为需要小心对待。因此，在寻找到避免图片路径选择出错引起程序运行错误的解决方案并实现它之前，此程序原则上并不允许动态加载图片。
+* 如果有这方面需求，请考虑进行二次开发，或等待此软件的后续版本。
 
 ## 特殊声明
 * 使用前请务必在[Line Store](https://store.line.me)等处购买相关表情包使用授权！
