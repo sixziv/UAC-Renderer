@@ -76,7 +76,7 @@
 * [Main application source (.zip)](https://github.com/sixziv/UAC-Renderer/archive/v1.0.0.zip)
 
 ## 您可以通过以下方式参与本项目
+* 前往[Github仓库](https://github.com/sixziv/UAC-Renderer/)
     * 提交您观测到的bug
     * 提出您的想法
     * 提交您编写的分支
-* 请前往[Github仓库](https://github.com/sixziv/UAC-Renderer/)提出Issue
